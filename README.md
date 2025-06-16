@@ -1,7 +1,7 @@
 ![](./.github/banner.png)
 
 <p align="center">
-    A cross-platform tool to find traces of old SIDs in Active Directory security descriptors.
+    A cross-platform tool to find traces of old SIDs remaining in LDAP objects of the Active Directory.
     <br>
     <a href="https://github.com/TheManticoreProject/FindOldSIDTraces/actions/workflows/release.yaml" title="Build"><img alt="Build and Release" src="https://github.com/TheManticoreProject/FindOldSIDTraces/actions/workflows/release.yaml/badge.svg"></a>
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TheManticoreProject/FindOldSIDTraces">
